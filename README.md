@@ -1,0 +1,2 @@
+# fullstactNuxtJs
+project-A
